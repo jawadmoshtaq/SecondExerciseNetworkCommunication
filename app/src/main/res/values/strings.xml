@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Second Exercise of Network Commjunication</string>
+    <string name="text_to_be_take_from_internet">TEXT to be take from internet</string>
+    <string name="load_with_retrofit">load with retrofit</string>
+    <string name="load_with_okhttp">load with okhttp</string>
+</resources>
